@@ -1,0 +1,427 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Crypto Exchanges"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Freqtrade",
+          "description": "Crypto trading bot written in Python that features backtesting, plotting and money management tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:31:00Z",
+            "owner": "freqtrade",
+            "repo": "freqtrade",
+            "stars": 53249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gekko",
+          "description": "Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-02-16T14:25:26Z",
+            "owner": "askmike",
+            "repo": "gekko",
+            "stars": 10187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zenbot",
+          "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-02-14T16:11:27Z",
+            "owner": "DeviaVir",
+            "repo": "zenbot",
+            "stars": 8258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto Trading Bot",
+          "description": "Cryptocurrency trading bot in Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T09:16:05Z",
+            "owner": "Haehnchen",
+            "repo": "crypto-trading-bot",
+            "stars": 3511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gocryptotrader",
+          "description": "A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T01:57:12Z",
+            "owner": "thrasher-corp",
+            "repo": "gocryptotrader",
+            "stars": 3451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kelp",
+          "description": "Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-11-03T05:46:15Z",
+            "owner": "stellar-deprecated",
+            "repo": "kelp",
+            "stars": 1125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bxbot",
+          "description": "A simple Bitcoin trading bot written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-30T23:30:51Z",
+            "owner": "gazbert",
+            "repo": "bxbot",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bowhead",
+          "description": "A REST-API and console-based cryptocurrency trading bot framework written in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-03-01T18:56:11Z",
+            "owner": "joeldg",
+            "repo": "bowhead",
+            "stars": 802
+          }
+        }
+      ],
+      "title": "Trading Bots and Bot Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tribeca",
+          "description": "A high frequency, market-making cryptocurrency trading platform in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-08T19:02:31Z",
+            "owner": "michaelgrosner",
+            "repo": "tribeca",
+            "stars": 4114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krypto Trading Bot",
+          "description": "Self-hosted crypto trading bot (automated high frequency market making) in Node.js, Angular, Typescript and C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-15T15:26:06Z",
+            "owner": "ctubio",
+            "repo": "Krypto-trading-bot",
+            "stars": 3708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample Market Maker",
+          "description": "Sample BitMEX market-making bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T08:02:34Z",
+            "owner": "BitMEX",
+            "repo": "sample-market-maker",
+            "stars": 1715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Market Maker Keeper",
+          "description": "Maker keeper framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-15T21:26:50Z",
+            "owner": "sky-ecosystem",
+            "repo": "market-maker-keeper",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DexBot",
+          "description": "A Trading Bot provided with two very flexible market-making strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T12:35:08Z",
+            "owner": "Codaone",
+            "repo": "DEXBot",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HummingBot",
+          "description": "Hummingbot: a client for crypto market making.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-07T20:09:15Z",
+            "owner": "CoinAlpha",
+            "repo": "hummingbot",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "Market Making Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bitcoin Arbitrage",
+          "description": "Bitcoin arbitrage opportunity detector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-20T16:16:12Z",
+            "owner": "maxme",
+            "repo": "bitcoin-arbitrage",
+            "stars": 2584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peregrine",
+          "description": "Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-06-28T20:23:52Z",
+            "owner": "wardbradt",
+            "repo": "peregrine",
+            "stars": 1246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Binance Triangle Arbitrage",
+          "description": "Detects arbitrage opportunities in Binance with triangle arbitrage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T18:00:50Z",
+            "owner": "bmino",
+            "repo": "binance-triangle-arbitrage",
+            "stars": 1168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackbird",
+          "description": "Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy.",
+          "children": []
+        }
+      ],
+      "title": "Arbitrage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Backtrader",
+          "description": "Python backtesting library for trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-19T17:47:36Z",
+            "owner": "mementum",
+            "repo": "backtrader",
+            "stars": 22835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lean",
+          "description": "Algorithmic trading engine built for strategy research, backtesting and live trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T15:35:45Z",
+            "owner": "QuantConnect",
+            "repo": "Lean",
+            "stars": 21194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zipline",
+          "description": "Zipline is the underlying software for the Quantopian's backtesting engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-13T08:02:51Z",
+            "owner": "quantopian",
+            "repo": "zipline",
+            "stars": 20032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catalyst",
+          "description": "Python library to backtest trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-26T14:07:55Z",
+            "owner": "scrtlabs",
+            "repo": "catalyst",
+            "stars": 2559
+          }
+        }
+      ],
+      "title": "Backtesters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "API and Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Quant",
+          "description": "A curated list of libraries, packages and resources for Quants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T12:10:44Z",
+            "owner": "wilsonfreitas",
+            "repo": "awesome-quant",
+            "stars": 28738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algo Trading Strategies",
+          "description": "Some quantitative trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-20T12:16:37Z",
+            "owner": "je-suis-tm",
+            "repo": "quant-trading",
+            "stars": 10540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto Signals",
+          "description": "Command line tool to automate crypto currency TA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-07T15:33:11Z",
+            "owner": "CryptoSignal",
+            "repo": "Crypto-Signal",
+            "stars": 5613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Quant ML Trading",
+          "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-21T20:41:58Z",
+            "owner": "grananqvist",
+            "repo": "Awesome-Quant-Machine-Learning-Trading",
+            "stars": 3948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gekko Strategies",
+          "description": "Strategies to Gekko trading bot with backtests results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-09T12:04:14Z",
+            "owner": "xFFFFF",
+            "repo": "Gekko-Strategies",
+            "stars": 1434
+          }
+        }
+      ],
+      "title": "Other Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:42:03.224Z",
+    "original_repository": "SpiralDevelopment/Awesome-Crypto-Trading",
+    "original_repository_sha": "5028f28780670cdc9638d5dd835e3bf346f79c26",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Crypto-Trading",
+    "enhanced_repository_description": null,
+    "title": "Awesome Crypto Trading with stars"
+  }
+}
