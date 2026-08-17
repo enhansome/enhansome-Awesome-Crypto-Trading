@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:18:56Z",
+            "last_commit": "2026-08-17T12:33:23Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53338
+            "stars": 53381
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2020-02-16T14:25:26Z",
             "owner": "askmike",
             "repo": "gekko",
-            "stars": 10185
+            "stars": 10186
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2022-02-14T16:11:27Z",
             "owner": "DeviaVir",
             "repo": "zenbot",
-            "stars": 8258
+            "stars": 8257
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-02T09:16:05Z",
             "owner": "Haehnchen",
             "repo": "crypto-trading-bot",
-            "stars": 3512
+            "stars": 3514
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T06:11:01Z",
+            "last_commit": "2026-08-17T05:29:48Z",
             "owner": "thrasher-corp",
             "repo": "gocryptotrader",
             "stars": 3451
@@ -137,7 +137,7 @@
             "last_commit": "2021-12-08T19:02:31Z",
             "owner": "michaelgrosner",
             "repo": "tribeca",
-            "stars": 4114
+            "stars": 4116
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2024-12-15T15:26:06Z",
             "owner": "ctubio",
             "repo": "Krypto-trading-bot",
-            "stars": 3708
+            "stars": 3707
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2024-10-20T16:16:12Z",
             "owner": "maxme",
             "repo": "bitcoin-arbitrage",
-            "stars": 2584
+            "stars": 2583
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22860
+            "stars": 22869
           }
         },
         {
@@ -292,10 +292,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T23:03:44Z",
+            "last_commit": "2026-08-17T14:32:42Z",
             "owner": "QuantConnect",
             "repo": "Lean",
-            "stars": 21237
+            "stars": 21244
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 20041
+            "stars": 20042
           }
         },
         {
@@ -345,10 +345,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T14:45:31Z",
+            "last_commit": "2026-08-17T12:20:34Z",
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 28861
+            "stars": 28910
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-06-20T12:16:37Z",
             "owner": "je-suis-tm",
             "repo": "quant-trading",
-            "stars": 10559
+            "stars": 10566
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2025-05-21T20:41:58Z",
             "owner": "grananqvist",
             "repo": "Awesome-Quant-Machine-Learning-Trading",
-            "stars": 3956
+            "stars": 3958
           }
         },
         {
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:09:40.137Z",
+    "last_updated": "2026-08-17T16:12:29.774Z",
     "original_repository": "SpiralDevelopment/Awesome-Crypto-Trading",
     "original_repository_sha": "5028f28780670cdc9638d5dd835e3bf346f79c26",
     "enhanced_repository": "enhansome/enhansome-Awesome-Crypto-Trading",
