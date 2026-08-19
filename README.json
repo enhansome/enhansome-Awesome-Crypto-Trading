@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 91629816,
                 "language": "Python",
-                "last_commit": "2026-08-18T11:21:57Z",
+                "last_commit": "2026-08-19T14:34:14Z",
                 "owner": "freqtrade",
                 "repo": "freqtrade",
-                "stars": 53430
+                "stars": 53434
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2024-08-19T17:47:36Z",
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 22894
+                "stars": 22897
               }
             },
             {
@@ -305,10 +305,10 @@
                 "archived": false,
                 "id": 27251463,
                 "language": "C#",
-                "last_commit": "2026-08-18T22:56:19Z",
+                "last_commit": "2026-08-19T15:23:30Z",
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21265
+                "stars": 21266
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2024-02-13T08:02:51Z",
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20052
+                "stars": 20053
               }
             },
             {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-08-19T01:28:13Z",
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 28971
+                "stars": 28973
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-06-20T12:16:37Z",
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10587
+                "stars": 10588
               }
             },
             {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:11.255Z",
+    "last_updated": "2026-08-19T16:16:12.968Z",
     "original_repository": "SpiralDevelopment/Awesome-Crypto-Trading",
     "original_repository_id": 282622398,
     "original_repository_sha": "5028f28780670cdc9638d5dd835e3bf346f79c26",
