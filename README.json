@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 91629816,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:48:05Z",
+                "last_commit": "2026-08-23T14:06:19Z",
                 "owner": "freqtrade",
                 "repo": "freqtrade",
-                "stars": 53518
+                "stars": 53554
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-02T09:16:05Z",
                 "owner": "Haehnchen",
                 "repo": "crypto-trading-bot",
-                "stars": 3513
+                "stars": 3514
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-21T08:00:48Z",
                 "owner": "thrasher-corp",
                 "repo": "gocryptotrader",
-                "stars": 3455
+                "stars": 3456
               }
             },
             {
@@ -139,7 +139,7 @@
                     "last_commit": "2021-12-08T19:02:31Z",
                     "owner": "michaelgrosner",
                     "repo": "tribeca",
-                    "stars": 4115
+                    "stars": 4116
                   }
                 },
                 {
@@ -169,7 +169,7 @@
                     "last_commit": "2023-05-24T08:02:34Z",
                     "owner": "BitMEX",
                     "repo": "sample-market-maker",
-                    "stars": 1714
+                    "stars": 1715
                   }
                 },
                 {
@@ -293,7 +293,7 @@
                 "last_commit": "2024-08-19T17:47:36Z",
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 22926
+                "stars": 22931
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-21T20:41:12Z",
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21300
+                "stars": 21325
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2024-02-13T08:02:51Z",
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20057
+                "stars": 20058
               }
             },
             {
@@ -357,10 +357,10 @@
                 "archived": false,
                 "id": 43425480,
                 "language": "HTML",
-                "last_commit": "2026-08-22T01:28:25Z",
+                "last_commit": "2026-08-23T08:13:37Z",
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29052
+                "stars": 29085
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-06-20T12:16:37Z",
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10607
+                "stars": 10615
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2024-07-07T15:33:11Z",
                 "owner": "CryptoSignal",
                 "repo": "Crypto-Signal",
-                "stars": 5616
+                "stars": 5617
               }
             },
             {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:08:25.215Z",
+    "last_updated": "2026-08-23T16:09:56.023Z",
     "original_repository": "SpiralDevelopment/Awesome-Crypto-Trading",
     "original_repository_id": 282622398,
     "original_repository_sha": "5028f28780670cdc9638d5dd835e3bf346f79c26",
