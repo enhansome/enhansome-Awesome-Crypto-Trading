@@ -293,7 +293,7 @@
                 "last_commit": "2024-08-19T17:47:36Z",
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 22945
+                "stars": 22948
               }
             },
             {
@@ -305,10 +305,10 @@
                 "archived": false,
                 "id": 27251463,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:18:10Z",
+                "last_commit": "2026-08-24T14:50:27Z",
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21333
+                "stars": 21335
               }
             },
             {
@@ -359,10 +359,10 @@
                     "archived": false,
                     "id": 91253698,
                     "language": "Python",
-                    "last_commit": "2026-08-24T09:43:40Z",
+                    "last_commit": "2026-08-24T16:11:42Z",
                     "owner": "ccxt",
                     "repo": "ccxt",
-                    "stars": 43730
+                    "stars": 43731
                   }
                 }
               ],
@@ -389,7 +389,7 @@
                 "last_commit": "2026-08-24T01:28:51Z",
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29119
+                "stars": 29124
               }
             },
             {
@@ -404,7 +404,7 @@
                 "last_commit": "2026-06-20T12:16:37Z",
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10617
+                "stars": 10618
               }
             },
             {
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:45.342Z",
+    "last_updated": "2026-08-24T16:20:47.972Z",
     "original_repository": "SpiralDevelopment/Awesome-Crypto-Trading",
     "original_repository_id": 282622398,
     "original_repository_sha": "5028f28780670cdc9638d5dd835e3bf346f79c26",

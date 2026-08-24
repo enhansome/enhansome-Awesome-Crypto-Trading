@@ -233,8 +233,8 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Backtesters
 
-* [Backtrader](https://github.com/mementum/backtrader) ⭐ 22,945 | 🐛 63 | 🌐 Python | 📅 2024-08-19 - Python backtesting library for trading strategies.
-* [Lean](https://github.com/QuantConnect/Lean) ⭐ 21,333 | 🐛 282 | 🌐 C# | 📅 2026-08-24 - Algorithmic trading engine built for strategy research, backtesting and live trading.
+* [Backtrader](https://github.com/mementum/backtrader) ⭐ 22,948 | 🐛 63 | 🌐 Python | 📅 2024-08-19 - Python backtesting library for trading strategies.
+* [Lean](https://github.com/QuantConnect/Lean) ⭐ 21,335 | 🐛 281 | 🌐 C# | 📅 2026-08-24 - Algorithmic trading engine built for strategy research, backtesting and live trading.
 * [Zipline](https://github.com/quantopian/zipline) ⭐ 20,061 | 🐛 370 | 🌐 Python | 📅 2024-02-13 - Zipline is the underlying software for the Quantopian's backtesting engine.
 * [Catalyst](https://github.com/enigmampc/catalyst) ⚠️ Archived - Python library to backtest trading strategies.
 * [Quantconnect](https://www.quantconnect.com/) - Code, backtest, and deploy automated trading strategies.
@@ -244,7 +244,7 @@ Play with trading simulators where you can engage with the market and practice y
 
 ### API
 
-* [CCXT](https://github.com/ccxt/ccxt) ⭐ 43,730 | 🐛 810 | 🌐 Python | 📅 2026-08-24 - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
+* [CCXT](https://github.com/ccxt/ccxt) ⭐ 43,731 | 🐛 811 | 🌐 Python | 📅 2026-08-24 - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
 * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
 * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
 * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
@@ -256,8 +256,8 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Other Projects
 
-* [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 29,119 | 🐛 59 | 🌐 HTML | 📅 2026-08-24 - A curated list of libraries, packages and resources for Quants.
-* [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) ⭐ 10,617 | 🐛 4 | 🌐 Python | 📅 2026-06-20 - Some quantitative trading strategies.
+* [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 29,124 | 🐛 59 | 🌐 HTML | 📅 2026-08-24 - A curated list of libraries, packages and resources for Quants.
+* [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) ⭐ 10,618 | 🐛 4 | 🌐 Python | 📅 2026-06-20 - Some quantitative trading strategies.
 * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) ⭐ 5,616 | 🐛 60 | 🌐 Python | 📅 2024-07-07 - Command line tool to automate crypto currency TA.
 * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 3,993 | 🐛 20 | 📅 2025-05-21 - Quant/Algorithm trading resources with an emphasis on Machine Learning.
 * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) ⭐ 1,438 | 🐛 19 | 🌐 JavaScript | 📅 2020-01-09 - Strategies to Gekko trading bot with backtests results.
