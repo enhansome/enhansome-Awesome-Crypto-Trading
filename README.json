@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-27T16:26:43Z",
                 "owner": "freqtrade",
                 "repo": "freqtrade",
-                "stars": 53731
-              }
+                "stars": 53779
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2020-02-16T14:25:26Z",
                 "owner": "askmike",
                 "repo": "gekko",
-                "stars": 10187
-              }
+                "stars": 10186
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "DeviaVir",
                 "repo": "zenbot",
                 "stars": 8260
-              }
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-02T09:16:05Z",
                 "owner": "Haehnchen",
                 "repo": "crypto-trading-bot",
-                "stars": 3515
-              }
+                "stars": 3516
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "thrasher-corp",
                 "repo": "gocryptotrader",
                 "stars": 3455
-              }
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "stellar-deprecated",
                 "repo": "kelp",
                 "stars": 1127
-              }
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "gazbert",
                 "repo": "bxbot",
                 "stars": 862
-              }
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "joeldg",
                 "repo": "bowhead",
                 "stars": 802
-              }
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "children": [
@@ -140,7 +148,8 @@
                     "owner": "michaelgrosner",
                     "repo": "tribeca",
                     "stars": 4117
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 },
                 {
                   "node_type": "item",
@@ -154,8 +163,9 @@
                     "last_commit": "2024-12-15T15:26:06Z",
                     "owner": "ctubio",
                     "repo": "Krypto-trading-bot",
-                    "stars": 3707
-                  }
+                    "stars": 3709
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 },
                 {
                   "node_type": "item",
@@ -169,8 +179,9 @@
                     "last_commit": "2023-05-24T08:02:34Z",
                     "owner": "BitMEX",
                     "repo": "sample-market-maker",
-                    "stars": 1715
-                  }
+                    "stars": 1716
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 },
                 {
                   "node_type": "item",
@@ -185,7 +196,8 @@
                     "owner": "sky-ecosystem",
                     "repo": "market-maker-keeper",
                     "stars": 492
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 },
                 {
                   "node_type": "item",
@@ -200,7 +212,8 @@
                     "owner": "Codaone",
                     "repo": "DEXBot",
                     "stars": 247
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 },
                 {
                   "node_type": "item",
@@ -215,7 +228,8 @@
                     "owner": "CoinAlpha",
                     "repo": "hummingbot",
                     "stars": 216
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 }
               ],
               "description": null,
@@ -237,7 +251,8 @@
                     "owner": "maxme",
                     "repo": "bitcoin-arbitrage",
                     "stars": 2584
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 },
                 {
                   "node_type": "item",
@@ -252,7 +267,8 @@
                     "owner": "wardbradt",
                     "repo": "peregrine",
                     "stars": 1247
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 },
                 {
                   "node_type": "item",
@@ -267,7 +283,8 @@
                     "owner": "bmino",
                     "repo": "binance-triangle-arbitrage",
                     "stars": 1167
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 }
               ],
               "description": null,
@@ -293,8 +310,9 @@
                 "last_commit": "2024-08-19T17:47:36Z",
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 22997
-              }
+                "stars": 23010
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -305,11 +323,12 @@
                 "archived": false,
                 "id": 27251463,
                 "language": "C#",
-                "last_commit": "2026-08-27T21:26:20Z",
+                "last_commit": "2026-08-28T22:31:13Z",
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21380
-              }
+                "stars": 21388
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "quantopian",
                 "repo": "zipline",
                 "stars": 20071
-              }
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "scrtlabs",
                 "repo": "catalyst",
                 "stars": 2560
-              }
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             }
           ],
           "description": null,
@@ -359,11 +380,12 @@
                     "archived": false,
                     "id": 91253698,
                     "language": "Python",
-                    "last_commit": "2026-08-27T09:42:12Z",
+                    "last_commit": "2026-08-28T18:09:44Z",
                     "owner": "ccxt",
                     "repo": "ccxt",
-                    "stars": 43771
-                  }
+                    "stars": 43785
+                  },
+                  "first_seen": "2026-08-29T00:11:08.386Z"
                 }
               ],
               "description": null,
@@ -386,11 +408,12 @@
                 "archived": false,
                 "id": 43425480,
                 "language": "HTML",
-                "last_commit": "2026-08-27T02:32:05Z",
+                "last_commit": "2026-08-28T03:41:58Z",
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29239
-              }
+                "stars": 29267
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -404,8 +427,9 @@
                 "last_commit": "2026-06-20T12:16:37Z",
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10632
-              }
+                "stars": 10635
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -419,8 +443,9 @@
                 "last_commit": "2024-07-07T15:33:11Z",
                 "owner": "CryptoSignal",
                 "repo": "Crypto-Signal",
-                "stars": 5620
-              }
+                "stars": 5621
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -434,8 +459,9 @@
                 "last_commit": "2025-05-21T20:41:58Z",
                 "owner": "grananqvist",
                 "repo": "Awesome-Quant-Machine-Learning-Trading",
-                "stars": 4004
-              }
+                "stars": 4006
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             },
             {
               "node_type": "item",
@@ -449,8 +475,9 @@
                 "last_commit": "2020-01-09T12:04:14Z",
                 "owner": "xFFFFF",
                 "repo": "Gekko-Strategies",
-                "stars": 1441
-              }
+                "stars": 1442
+              },
+              "first_seen": "2026-08-29T00:11:08.386Z"
             }
           ],
           "description": null,
@@ -462,7 +489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:38:50.676Z",
+    "last_updated": "2026-08-29T00:11:08.386Z",
     "original_repository_info": {
       "archived": false,
       "id": 282622398,
