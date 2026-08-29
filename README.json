@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free, open source crypto trading bot",
+                "homepage": "https://www.freqtrade.io",
                 "id": 91629816,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T16:26:43Z",
+                "open_issues": 35,
                 "owner": "freqtrade",
                 "repo": "freqtrade",
-                "stars": 53779
+                "stars": 53785,
+                "topics": [
+                  "algorithmic-trading",
+                  "bitcoin",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "freqtrade",
+                  "python",
+                  "telegram-bot",
+                  "trade",
+                  "trading-bot"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -28,12 +43,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A bitcoin trading bot written in node - https://gekko.wizb.it/",
+                "homepage": null,
                 "id": 10020773,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-02-16T14:25:26Z",
+                "open_issues": 0,
                 "owner": "askmike",
                 "repo": "gekko",
-                "stars": 10186
+                "stars": 10186,
+                "topics": [
+                  "bitcoin",
+                  "exchange",
+                  "gekko",
+                  "trading-bot",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -44,12 +70,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.",
+                "homepage": null,
                 "id": 62025838,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-02-14T16:11:27Z",
+                "open_issues": 295,
                 "owner": "DeviaVir",
                 "repo": "zenbot",
-                "stars": 8260
+                "stars": 8260,
+                "topics": [
+                  "nodejs",
+                  "paper-trading",
+                  "python",
+                  "strategy",
+                  "trade",
+                  "zenbot"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -60,12 +98,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)",
+                "homepage": null,
                 "id": 150290884,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T09:16:05Z",
+                "open_issues": 120,
                 "owner": "Haehnchen",
                 "repo": "crypto-trading-bot",
-                "stars": 3516
+                "stars": 3516,
+                "topics": [
+                  "binance",
+                  "bitfinex",
+                  "bitmex",
+                  "bot",
+                  "bybit",
+                  "ccxt",
+                  "coinbase",
+                  "crypto",
+                  "cryptocurrency",
+                  "docker",
+                  "exchange",
+                  "javascript",
+                  "margin",
+                  "nodejs",
+                  "trading",
+                  "trading-bot",
+                  "trading-strategies",
+                  "tradingview",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -76,12 +139,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.",
+                "homepage": null,
                 "id": 25868356,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T06:03:43Z",
+                "open_issues": 67,
                 "owner": "thrasher-corp",
                 "repo": "gocryptotrader",
-                "stars": 3455
+                "stars": 3455,
+                "topics": [
+                  "algorithmic-trading",
+                  "algorithmic-trading-library",
+                  "cryptocurrency",
+                  "cryptocurrency-trading-bot",
+                  "exchange",
+                  "go",
+                  "golang",
+                  "trading-bot",
+                  "trading-framework",
+                  "trading-platform"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -92,12 +171,35 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges",
+                "homepage": "https://kelpbot.io",
                 "id": 144078031,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-03T05:46:15Z",
+                "open_issues": 176,
                 "owner": "stellar-deprecated",
                 "repo": "kelp",
-                "stars": 1127
+                "stars": 1127,
+                "topics": [
+                  "blockchain",
+                  "ccxt-rest",
+                  "cryptocurrency",
+                  "ethereum",
+                  "liquidity",
+                  "market-maker",
+                  "market-making",
+                  "stellar",
+                  "stellar-lumens",
+                  "stellar-network",
+                  "trading",
+                  "trading-algorithms",
+                  "trading-api",
+                  "trading-bot",
+                  "trading-platform",
+                  "trading-strategies",
+                  "xlm"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -108,12 +210,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Bitcoin trading bot written in Java.",
+                "homepage": null,
                 "id": 41933697,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-11-30T23:30:51Z",
+                "open_issues": 9,
                 "owner": "gazbert",
                 "repo": "bxbot",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "bitcoin",
+                  "bitfinex",
+                  "bitstamp",
+                  "bot",
+                  "btc",
+                  "coinbase",
+                  "crypto",
+                  "crypto-bot",
+                  "crypto-trading",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "cryptocurrency-exchanges",
+                  "exchange-api",
+                  "gemini",
+                  "java",
+                  "kraken",
+                  "rest-api",
+                  "trading",
+                  "trading-api",
+                  "tradingbot"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -124,12 +252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP trading bot framework",
+                "homepage": null,
                 "id": 93972879,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-01T18:56:11Z",
+                "open_issues": 74,
                 "owner": "joeldg",
                 "repo": "bowhead",
-                "stars": 802
+                "stars": 802,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -142,12 +275,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A high frequency, market making cryptocurrency trading platform in node.js",
+                    "homepage": null,
                     "id": 38707501,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-12-08T19:02:31Z",
+                    "open_issues": 116,
                     "owner": "michaelgrosner",
                     "repo": "tribeca",
-                    "stars": 4117
+                    "stars": 4117,
+                    "topics": [
+                      "bitcoin",
+                      "cryptocurrency",
+                      "docker",
+                      "exchange",
+                      "hft",
+                      "hft-trading",
+                      "market-maker",
+                      "trade",
+                      "trading",
+                      "trading-bot"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 },
@@ -158,12 +307,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-hosted crypto trading bot (automated high frequency market making) written in C++",
+                    "homepage": "https://127.0.0.1:3000",
                     "id": 94253765,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-12-15T15:26:06Z",
+                    "open_issues": 64,
                     "owner": "ctubio",
                     "repo": "Krypto-trading-bot",
-                    "stars": 3709
+                    "stars": 3709,
+                    "topics": [
+                      "binance",
+                      "bitcoin",
+                      "bitfinex",
+                      "bitmex",
+                      "bob-marley",
+                      "bot-platform",
+                      "coinbase",
+                      "cryptocurrency",
+                      "exchange",
+                      "hitbtc",
+                      "kraken",
+                      "kucoin",
+                      "market-data",
+                      "market-maker",
+                      "skate-or-die",
+                      "trade",
+                      "trading",
+                      "trading-bot",
+                      "trading-platform",
+                      "trading-strategies"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 },
@@ -174,12 +349,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sample BitMEX Market Making Bot",
+                    "homepage": null,
                     "id": 22843158,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-05-24T08:02:34Z",
+                    "open_issues": 65,
                     "owner": "BitMEX",
                     "repo": "sample-market-maker",
-                    "stars": 1716
+                    "stars": 1716,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 },
@@ -190,12 +370,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io.",
+                    "homepage": null,
                     "id": 112648157,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2023-03-15T21:26:50Z",
+                    "open_issues": 10,
                     "owner": "sky-ecosystem",
                     "repo": "market-maker-keeper",
-                    "stars": 492
+                    "stars": 492,
+                    "topics": [
+                      "dai",
+                      "ethereum",
+                      "maker-keeper",
+                      "stablecoin"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 },
@@ -206,12 +396,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Trading Bot for the BitShares Decentralized Exchange",
+                    "homepage": null,
                     "id": 115112958,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-20T12:35:08Z",
+                    "open_issues": 97,
                     "owner": "Codaone",
                     "repo": "DEXBot",
-                    "stars": 247
+                    "stars": 247,
+                    "topics": [
+                      "bitshares",
+                      "blockchain",
+                      "cryptocurrency",
+                      "dex"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 },
@@ -222,12 +422,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain",
+                    "homepage": "https://www.hummingbot.org",
                     "id": 439330952,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-07T20:09:15Z",
+                    "open_issues": 9,
                     "owner": "CoinAlpha",
                     "repo": "hummingbot",
-                    "stars": 216
+                    "stars": 216,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 }
@@ -245,12 +450,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bitcoin arbitrage - opportunity detector",
+                    "homepage": null,
                     "id": 7935764,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-10-20T16:16:12Z",
+                    "open_issues": 15,
                     "owner": "maxme",
                     "repo": "bitcoin-arbitrage",
-                    "stars": 2584
+                    "stars": 2584,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 },
@@ -261,12 +471,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries",
+                    "homepage": null,
                     "id": 119887944,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-28T20:23:52Z",
+                    "open_issues": 8,
                     "owner": "wardbradt",
                     "repo": "peregrine",
-                    "stars": 1247
+                    "stars": 1247,
+                    "topics": [
+                      "algorithmic-trading",
+                      "algotrading",
+                      "arbitrage",
+                      "arbitrage-bot",
+                      "bellman-ford",
+                      "ccxt",
+                      "cryptocurrency",
+                      "python",
+                      "trading-algorithms",
+                      "trading-bot"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 },
@@ -277,12 +503,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Detect in-market cryptocurrency arbitrage",
+                    "homepage": null,
                     "id": 115759337,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-07T18:00:50Z",
+                    "open_issues": 19,
                     "owner": "bmino",
                     "repo": "binance-triangle-arbitrage",
-                    "stars": 1167
+                    "stars": 1167,
+                    "topics": [
+                      "arbitrage",
+                      "arbitrage-bot",
+                      "binance",
+                      "binance-api",
+                      "binance-crytpocurrency-exchange",
+                      "crypto",
+                      "cryptocurrency",
+                      "javascript",
+                      "nodejs",
+                      "triangle-arbitrage"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 }
@@ -305,12 +547,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Backtesting library for trading strategies",
+                "homepage": "https://www.backtrader.com",
                 "id": 29050338,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-19T17:47:36Z",
+                "open_issues": 63,
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 23010
+                "stars": 23012,
+                "topics": [
+                  "backtesting",
+                  "metaclass",
+                  "python",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -321,12 +573,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+                "homepage": "https://lean.io",
                 "id": 27251463,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:31:13Z",
+                "open_issues": 258,
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21388
+                "stars": 21390,
+                "topics": [
+                  "algorithm",
+                  "algorithmic-trading-engine",
+                  "c-sharp",
+                  "finance",
+                  "forex",
+                  "lean-engine",
+                  "options",
+                  "python",
+                  "quantconnect",
+                  "stock-indicators",
+                  "trading",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-platform",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -337,12 +610,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zipline, a Pythonic Algorithmic Trading Library",
+                "homepage": "https://www.zipline.io",
                 "id": 6297520,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-13T08:02:51Z",
+                "open_issues": 370,
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20071
+                "stars": 20073,
+                "topics": [
+                  "algorithmic-trading",
+                  "python",
+                  "quant",
+                  "zipline"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -353,12 +636,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An Algorithmic Trading Library for Crypto-Assets in Python",
+                "homepage": "http://enigma.co",
                 "id": 94264011,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-26T14:07:55Z",
+                "open_issues": 136,
                 "owner": "scrtlabs",
                 "repo": "catalyst",
-                "stars": 2560
+                "stars": 2560,
+                "topics": [
+                  "algorithmic-trading",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             }
@@ -378,12 +671,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java ",
+                    "homepage": "https://docs.ccxt.com",
                     "id": 91253698,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T18:09:44Z",
+                    "open_issues": 828,
                     "owner": "ccxt",
                     "repo": "ccxt",
-                    "stars": 43785
+                    "stars": 43786,
+                    "topics": [
+                      "altcoin",
+                      "api",
+                      "arbitrage",
+                      "bitcoin",
+                      "bot",
+                      "btc",
+                      "crypto",
+                      "cryptocurrencies",
+                      "cryptocurrency",
+                      "eth",
+                      "ethereum",
+                      "exchange",
+                      "invest",
+                      "library",
+                      "market-data",
+                      "memecoin",
+                      "strategy",
+                      "trade",
+                      "trading"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
                 }
@@ -406,12 +724,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+                "homepage": "https://wilsonfreitas.github.io/awesome-quant/",
                 "id": 43425480,
                 "language": "HTML",
-                "last_commit": "2026-08-28T03:41:58Z",
+                "license": null,
+                "last_commit": "2026-08-29T01:06:41Z",
+                "open_issues": 67,
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29267
+                "stars": 29269,
+                "topics": [
+                  "algorithmic-trading-engine",
+                  "algorithmic-trading-library",
+                  "algotrading",
+                  "arbitrage-bot",
+                  "awesome",
+                  "awesome-list",
+                  "finance",
+                  "finance-api",
+                  "financial-data",
+                  "financial-instruments",
+                  "google-finance",
+                  "quant",
+                  "quantitative-finance",
+                  "quantitative-trading",
+                  "stock-data",
+                  "technical-analysis",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-strategies",
+                  "yahoo-finance"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -422,12 +766,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
+                "homepage": "https://je-suis-tm.github.io/quant-trading",
                 "id": 127918080,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-20T12:16:37Z",
+                "open_issues": 4,
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10635
+                "stars": 10637,
+                "topics": [
+                  "algorithmic-trading",
+                  "bollinger-bands",
+                  "commodity-trading",
+                  "macd",
+                  "momentum-strategy",
+                  "momentum-trading-strategy",
+                  "options-strategies",
+                  "options-trading",
+                  "pair-trading",
+                  "quant",
+                  "quantimental-analysis",
+                  "quantitative-finance",
+                  "quantitative-trading",
+                  "quantitative-trading-strategies",
+                  "statistical-arbitrage",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-strategies",
+                  "trading-strategy",
+                  "trading-systems"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -438,12 +808,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks",
+                "homepage": "https://www.linkedin.com/in/AbenezerMamo",
                 "id": 103791045,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-07T15:33:11Z",
+                "open_issues": 56,
                 "owner": "CryptoSignal",
                 "repo": "Crypto-Signal",
-                "stars": 5621
+                "stars": 5621,
+                "topics": [
+                  "abenezer-mamo",
+                  "algorithmic-trading",
+                  "binance",
+                  "binance-api",
+                  "bitcoin",
+                  "bittrex-api",
+                  "coinbase",
+                  "coinbase-api",
+                  "coinbase-pro",
+                  "crypto",
+                  "crypto-signal",
+                  "cryptosignal",
+                  "cryptotrading",
+                  "ethereum",
+                  "gdax",
+                  "mamo",
+                  "technical-analysis",
+                  "trading",
+                  "trading-bot",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -454,12 +850,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
+                "homepage": null,
                 "id": 156283359,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-21T20:41:58Z",
+                "open_issues": 20,
                 "owner": "grananqvist",
                 "repo": "Awesome-Quant-Machine-Learning-Trading",
-                "stars": 4006
+                "stars": 4006,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "financial-machine-learning",
+                  "machine-learning",
+                  "machine-learning-trading",
+                  "stock-trading",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             },
@@ -470,12 +880,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strategies to Gekko trading bot with backtests results and some useful tools.",
+                "homepage": null,
                 "id": 121167506,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-01-09T12:04:14Z",
+                "open_issues": 19,
                 "owner": "xFFFFF",
                 "repo": "Gekko-Strategies",
-                "stars": 1442
+                "stars": 1442,
+                "topics": [
+                  "backtest-database",
+                  "crypto",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "cryptocurrency-exchanges",
+                  "gekko",
+                  "gekko-backtest",
+                  "gekko-strategies",
+                  "hodl",
+                  "rsi",
+                  "stock",
+                  "stock-price-prediction",
+                  "strategies",
+                  "technical-analysis",
+                  "trading",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-platform",
+                  "trading-simulator",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
             }
@@ -489,15 +925,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:11:08.386Z",
+    "last_updated": "2026-08-29T04:50:49.011Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome curated list of resources, software and tools for crypto traders.",
+      "homepage": null,
       "id": 282622398,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-07-30T02:49:12Z",
+      "open_issues": 47,
       "owner": "SpiralDevelopment",
       "repo": "Awesome-Crypto-Trading",
-      "stars": 195
+      "stars": 195,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "crypto-trading",
+        "list",
+        "trading"
+      ]
     },
     "original_repository_sha": "5028f28780670cdc9638d5dd835e3bf346f79c26",
     "enhanced_repository": "enhansome/enhansome-Awesome-Crypto-Trading",
