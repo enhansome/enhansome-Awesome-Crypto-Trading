@@ -17,11 +17,11 @@
                 "id": 91629816,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T04:50:44Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-03T18:44:56Z",
+                "open_issues": 29,
                 "owner": "freqtrade",
                 "repo": "freqtrade",
-                "stars": 53954,
+                "stars": 53980,
                 "topics": [
                   "algorithmic-trading",
                   "bitcoin",
@@ -107,7 +107,7 @@
                 "open_issues": 120,
                 "owner": "Haehnchen",
                 "repo": "crypto-trading-bot",
-                "stars": 3516,
+                "stars": 3517,
                 "topics": [
                   "binance",
                   "bitfinex",
@@ -144,8 +144,8 @@
                 "id": 25868356,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-01T05:54:11Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-03T05:45:59Z",
+                "open_issues": 72,
                 "owner": "thrasher-corp",
                 "repo": "gocryptotrader",
                 "stars": 3455,
@@ -358,7 +358,7 @@
                     "open_issues": 65,
                     "owner": "BitMEX",
                     "repo": "sample-market-maker",
-                    "stars": 1716,
+                    "stars": 1715,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
@@ -431,7 +431,7 @@
                     "open_issues": 9,
                     "owner": "CoinAlpha",
                     "repo": "hummingbot",
-                    "stars": 216,
+                    "stars": 217,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
@@ -459,7 +459,7 @@
                     "open_issues": 15,
                     "owner": "maxme",
                     "repo": "bitcoin-arbitrage",
-                    "stars": 2585,
+                    "stars": 2587,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:11:08.386Z"
@@ -556,7 +556,7 @@
                 "open_issues": 63,
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 23119,
+                "stars": 23131,
                 "topics": [
                   "backtesting",
                   "metaclass",
@@ -578,11 +578,11 @@
                 "id": 27251463,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T14:47:23Z",
-                "open_issues": 259,
+                "last_commit": "2026-09-02T22:19:44Z",
+                "open_issues": 260,
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21456,
+                "stars": 21470,
                 "topics": [
                   "algorithm",
                   "algorithmic-trading-engine",
@@ -619,7 +619,7 @@
                 "open_issues": 370,
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20078,
+                "stars": 20080,
                 "topics": [
                   "algorithmic-trading",
                   "python",
@@ -671,16 +671,16 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java ",
+                    "description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust",
                     "homepage": "https://docs.ccxt.com",
                     "id": 91253698,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T17:17:51Z",
-                    "open_issues": 849,
+                    "last_commit": "2026-09-03T18:32:59Z",
+                    "open_issues": 847,
                     "owner": "ccxt",
                     "repo": "ccxt",
-                    "stars": 43840,
+                    "stars": 43848,
                     "topics": [
                       "altcoin",
                       "api",
@@ -729,11 +729,11 @@
                 "id": 43425480,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-02T12:08:34Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-03T01:20:28Z",
+                "open_issues": 55,
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29379,
+                "stars": 29412,
                 "topics": [
                   "algorithmic-trading-engine",
                   "algorithmic-trading-library",
@@ -775,7 +775,7 @@
                 "open_issues": 4,
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10669,
+                "stars": 10672,
                 "topics": [
                   "algorithmic-trading",
                   "bollinger-bands",
@@ -859,7 +859,7 @@
                 "open_issues": 20,
                 "owner": "grananqvist",
                 "repo": "Awesome-Quant-Machine-Learning-Trading",
-                "stars": 4011,
+                "stars": 4014,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:00:14.155Z",
+    "last_updated": "2026-09-03T18:55:49.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated list of resources, software and tools for crypto traders.",
@@ -934,7 +934,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2020-07-30T02:49:12Z",
-      "open_issues": 48,
+      "open_issues": 49,
       "owner": "SpiralDevelopment",
       "repo": "Awesome-Crypto-Trading",
       "stars": 195,
