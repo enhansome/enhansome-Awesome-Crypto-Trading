@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-19T11:07:05Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "freqtrade",
                 "repo": "freqtrade",
-                "stars": 54532,
+                "stars": 54599,
                 "topics": [
                   "algorithmic-trading",
                   "bitcoin",
@@ -284,7 +284,7 @@
                     "open_issues": 116,
                     "owner": "michaelgrosner",
                     "repo": "tribeca",
-                    "stars": 4117,
+                    "stars": 4118,
                     "topics": [
                       "bitcoin",
                       "cryptocurrency",
@@ -316,7 +316,7 @@
                     "open_issues": 64,
                     "owner": "ctubio",
                     "repo": "Krypto-trading-bot",
-                    "stars": 3714,
+                    "stars": 3715,
                     "topics": [
                       "binance",
                       "bitcoin",
@@ -556,7 +556,7 @@
                 "open_issues": 63,
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 23281,
+                "stars": 23290,
                 "topics": [
                   "backtesting",
                   "metaclass",
@@ -582,7 +582,7 @@
                 "open_issues": 253,
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21680,
+                "stars": 21701,
                 "topics": [
                   "algorithm",
                   "algorithmic-trading-engine",
@@ -619,7 +619,7 @@
                 "open_issues": 368,
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20099,
+                "stars": 20101,
                 "topics": [
                   "algorithmic-trading",
                   "python",
@@ -676,11 +676,11 @@
                     "id": 91253698,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T15:42:12Z",
-                    "open_issues": 719,
+                    "last_commit": "2026-09-20T12:48:58Z",
+                    "open_issues": 693,
                     "owner": "ccxt",
                     "repo": "ccxt",
-                    "stars": 44041,
+                    "stars": 44073,
                     "topics": [
                       "altcoin",
                       "api",
@@ -729,11 +729,11 @@
                 "id": 43425480,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-19T01:14:05Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-20T01:19:40Z",
+                "open_issues": 72,
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29658,
+                "stars": 29668,
                 "topics": [
                   "algorithmic-trading-engine",
                   "algorithmic-trading-library",
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10748,
+                "stars": 10751,
                 "topics": [
                   "algorithmic-trading",
                   "bollinger-bands",
@@ -817,7 +817,7 @@
                 "open_issues": 56,
                 "owner": "CryptoSignal",
                 "repo": "Crypto-Signal",
-                "stars": 5639,
+                "stars": 5640,
                 "topics": [
                   "abenezer-mamo",
                   "algorithmic-trading",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:14:40.914Z",
+    "last_updated": "2026-09-20T18:20:06.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated list of resources, software and tools for crypto traders.",
