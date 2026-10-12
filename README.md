@@ -206,19 +206,19 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Trading Bots and Bot Frameworks
 
-* [Freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 55,266 | 🐛 30 | 🌐 Python | 📅 2026-10-11 - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
+* [Freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 55,320 | 🐛 30 | 🌐 Python | 📅 2026-10-12 - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
 * [Gekko](https://github.com/askmike/gekko) ⚠️ Archived - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
 * [Zenbot](https://github.com/DeviaVir/zenbot) ⚠️ Archived - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) ⭐ 3,537 | 🐛 121 | 🌐 TypeScript | 📅 2026-08-02 - Cryptocurrency trading bot in Javascript.
-* [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) ⭐ 3,460 | 🐛 116 | 🌐 Go | 📅 2026-10-08 - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
+* [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) ⭐ 3,459 | 🐛 117 | 🌐 Go | 📅 2026-10-12 - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 * [Kelp](https://github.com/stellar/kelp) ⚠️ Archived - Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX.
 * [Bxbot](https://github.com/gazbert/bxbot) ⭐ 864 | 🐛 9 | 🌐 Java | 📅 2024-11-30 - A simple Bitcoin trading bot written in Java.
 * [Bowhead](https://github.com/joeldg/bowhead) ⭐ 800 | 🐛 74 | 🌐 PHP | 📅 2023-03-01 - A REST-API and console-based cryptocurrency trading bot framework written in PHP.
 
 ### Market Making Bots
 
-* [Tribeca](https://github.com/michaelgrosner/tribeca) ⭐ 4,114 | 🐛 116 | 🌐 TypeScript | 📅 2021-12-08 - A high frequency, market-making cryptocurrency trading platform in Node.js.
-* [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) ⭐ 3,720 | 🐛 64 | 🌐 C++ | 📅 2024-12-15 - Self-hosted crypto trading bot (automated high frequency market making) in Node.js, Angular, Typescript and C++.
+* [Tribeca](https://github.com/michaelgrosner/tribeca) ⭐ 4,113 | 🐛 116 | 🌐 TypeScript | 📅 2021-12-08 - A high frequency, market-making cryptocurrency trading platform in Node.js.
+* [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) ⭐ 3,719 | 🐛 64 | 🌐 C++ | 📅 2024-12-15 - Self-hosted crypto trading bot (automated high frequency market making) in Node.js, Angular, Typescript and C++.
 * [Sample Market Maker](https://github.com/BitMEX/sample-market-maker) ⭐ 1,715 | 🐛 65 | 🌐 Python | 📅 2023-05-24 - Sample BitMEX market-making bot.
 * [Market Maker Keeper](https://github.com/makerdao/market-maker-keeper) ⚠️ Archived - Maker keeper framework.
 * [DexBot](https://github.com/Codaone/DEXBot) ⭐ 247 | 🐛 97 | 🌐 Python | 📅 2026-05-20 - A Trading Bot provided with two very flexible market-making strategies.
@@ -226,16 +226,16 @@ Play with trading simulators where you can engage with the market and practice y
 
 ### Arbitrage
 
-* [Bitcoin Arbitrage](https://github.com/maxme/bitcoin-arbitrage) ⭐ 2,586 | 🐛 15 | 🌐 Python | 📅 2024-10-20 - Bitcoin arbitrage opportunity detector.
+* [Bitcoin Arbitrage](https://github.com/maxme/bitcoin-arbitrage) ⭐ 2,585 | 🐛 15 | 🌐 Python | 📅 2024-10-20 - Bitcoin arbitrage opportunity detector.
 * [Peregrine](https://github.com/wardbradt/peregrine) ⚠️ Archived - Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries.
 * [Binance Triangle Arbitrage](https://github.com/bmino/binance-triangle-arbitrage) ⭐ 1,171 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-07 - Detects arbitrage opportunities in Binance with triangle arbitrage.
 * [Blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy.
 
 ## Backtesters
 
-* [Backtrader](https://github.com/mementum/backtrader) ⭐ 23,452 | 🐛 64 | 🌐 Python | 📅 2024-08-19 - Python backtesting library for trading strategies.
-* [Lean](https://github.com/QuantConnect/Lean) ⭐ 21,963 | 🐛 267 | 🌐 C# | 📅 2026-10-09 - Algorithmic trading engine built for strategy research, backtesting and live trading.
-* [Zipline](https://github.com/quantopian/zipline) ⭐ 20,148 | 🐛 367 | 🌐 Python | 📅 2024-02-13 - Zipline is the underlying software for the Quantopian's backtesting engine.
+* [Backtrader](https://github.com/mementum/backtrader) ⭐ 23,459 | 🐛 64 | 🌐 Python | 📅 2024-08-19 - Python backtesting library for trading strategies.
+* [Lean](https://github.com/QuantConnect/Lean) ⭐ 21,970 | 🐛 275 | 🌐 C# | 📅 2026-10-12 - Algorithmic trading engine built for strategy research, backtesting and live trading.
+* [Zipline](https://github.com/quantopian/zipline) ⭐ 20,149 | 🐛 367 | 🌐 Python | 📅 2024-02-13 - Zipline is the underlying software for the Quantopian's backtesting engine.
 * [Catalyst](https://github.com/enigmampc/catalyst) ⚠️ Archived - Python library to backtest trading strategies.
 * [Quantconnect](https://www.quantconnect.com/) - Code, backtest, and deploy automated trading strategies.
 * [Quantopian](https://www.quantopian.com/home) - Platform for developing and backtesting trading algorithms with Python.
@@ -244,7 +244,7 @@ Play with trading simulators where you can engage with the market and practice y
 
 ### API
 
-* [CCXT](https://github.com/ccxt/ccxt) ⭐ 44,325 | 🐛 743 | 🌐 Python | 📅 2026-10-11 - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
+* [CCXT](https://github.com/ccxt/ccxt) ⭐ 44,345 | 🐛 717 | 🌐 Python | 📅 2026-10-12 - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
 * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
 * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
 * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
@@ -256,10 +256,10 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Other Projects
 
-* [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 30,036 | 🐛 154 | 🌐 HTML | 📅 2026-10-11 - A curated list of libraries, packages and resources for Quants.
-* [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) ⭐ 10,961 | 🐛 1 | 🌐 Python | 📅 2026-06-20 - Some quantitative trading strategies.
-* [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) ⭐ 5,640 | 🐛 56 | 🌐 Python | 📅 2024-07-07 - Command line tool to automate crypto currency TA.
-* [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 4,045 | 🐛 23 | 📅 2025-05-21 - Quant/Algorithm trading resources with an emphasis on Machine Learning.
+* [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 30,044 | 🐛 156 | 🌐 HTML | 📅 2026-10-12 - A curated list of libraries, packages and resources for Quants.
+* [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) ⭐ 10,966 | 🐛 1 | 🌐 Python | 📅 2026-06-20 - Some quantitative trading strategies.
+* [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) ⭐ 5,639 | 🐛 56 | 🌐 Python | 📅 2024-07-07 - Command line tool to automate crypto currency TA.
+* [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 4,044 | 🐛 23 | 📅 2025-05-21 - Quant/Algorithm trading resources with an emphasis on Machine Learning.
 * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) ⭐ 1,440 | 🐛 19 | 🌐 JavaScript | 📅 2020-01-09 - Strategies to Gekko trading bot with backtests results.
 
 # Crypto Communities
@@ -279,4 +279,4 @@ Your contributions are always welcome! Please read the [Contribution Guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
