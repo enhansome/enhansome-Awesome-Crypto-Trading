@@ -17,11 +17,11 @@
                 "id": 91629816,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T06:21:00Z",
+                "last_commit": "2026-11-19T20:14:59Z",
                 "open_issues": 25,
                 "owner": "freqtrade",
                 "repo": "freqtrade",
-                "stars": 57040,
+                "stars": 57075,
                 "topics": [
                   "algorithmic-trading",
                   "bitcoin",
@@ -52,7 +52,7 @@
                 "open_issues": 0,
                 "owner": "askmike",
                 "repo": "gekko",
-                "stars": 10177,
+                "stars": 10179,
                 "topics": [
                   "bitcoin",
                   "exchange",
@@ -79,7 +79,7 @@
                 "open_issues": 295,
                 "owner": "DeviaVir",
                 "repo": "zenbot",
-                "stars": 8250,
+                "stars": 8249,
                 "topics": [
                   "nodejs",
                   "paper-trading",
@@ -107,7 +107,7 @@
                 "open_issues": 119,
                 "owner": "Haehnchen",
                 "repo": "crypto-trading-bot",
-                "stars": 3549,
+                "stars": 3548,
                 "topics": [
                   "binance",
                   "bitfinex",
@@ -145,10 +145,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-18T05:49:12Z",
-                "open_issues": 128,
+                "open_issues": 130,
                 "owner": "thrasher-corp",
                 "repo": "gocryptotrader",
-                "stars": 3468,
+                "stars": 3467,
                 "topics": [
                   "algorithmic-trading",
                   "algorithmic-trading-library",
@@ -180,7 +180,7 @@
                 "open_issues": 176,
                 "owner": "stellar-deprecated",
                 "repo": "kelp",
-                "stars": 1125,
+                "stars": 1124,
                 "topics": [
                   "blockchain",
                   "ccxt-rest",
@@ -219,7 +219,7 @@
                 "open_issues": 10,
                 "owner": "gazbert",
                 "repo": "bxbot",
-                "stars": 862,
+                "stars": 861,
                 "topics": [
                   "bitcoin",
                   "bitfinex",
@@ -261,7 +261,7 @@
                 "open_issues": 74,
                 "owner": "joeldg",
                 "repo": "bowhead",
-                "stars": 801,
+                "stars": 799,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:11:08.386Z"
@@ -284,7 +284,7 @@
                     "open_issues": 116,
                     "owner": "michaelgrosner",
                     "repo": "tribeca",
-                    "stars": 4120,
+                    "stars": 4116,
                     "topics": [
                       "bitcoin",
                       "cryptocurrency",
@@ -316,7 +316,7 @@
                     "open_issues": 64,
                     "owner": "ctubio",
                     "repo": "Krypto-trading-bot",
-                    "stars": 3736,
+                    "stars": 3734,
                     "topics": [
                       "binance",
                       "bitcoin",
@@ -480,7 +480,7 @@
                     "open_issues": 8,
                     "owner": "wardbradt",
                     "repo": "peregrine",
-                    "stars": 1250,
+                    "stars": 1249,
                     "topics": [
                       "algorithmic-trading",
                       "algotrading",
@@ -512,7 +512,7 @@
                     "open_issues": 18,
                     "owner": "bmino",
                     "repo": "binance-triangle-arbitrage",
-                    "stars": 1175,
+                    "stars": 1173,
                     "topics": [
                       "arbitrage",
                       "arbitrage-bot",
@@ -556,7 +556,7 @@
                 "open_issues": 64,
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 23760,
+                "stars": 23761,
                 "topics": [
                   "backtesting",
                   "metaclass",
@@ -578,11 +578,11 @@
                 "id": 27251463,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T21:36:58Z",
-                "open_issues": 322,
+                "last_commit": "2026-11-19T22:10:44Z",
+                "open_issues": 325,
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 22599,
+                "stars": 22614,
                 "topics": [
                   "algorithm",
                   "algorithmic-trading-engine",
@@ -619,7 +619,7 @@
                 "open_issues": 368,
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20247,
+                "stars": 20251,
                 "topics": [
                   "algorithmic-trading",
                   "python",
@@ -645,7 +645,7 @@
                 "open_issues": 136,
                 "owner": "scrtlabs",
                 "repo": "catalyst",
-                "stars": 2560,
+                "stars": 2559,
                 "topics": [
                   "algorithmic-trading",
                   "cryptocurrencies",
@@ -676,11 +676,11 @@
                     "id": 91253698,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T12:46:54Z",
-                    "open_issues": 756,
+                    "last_commit": "2026-11-19T18:26:05Z",
+                    "open_issues": 761,
                     "owner": "ccxt",
                     "repo": "ccxt",
-                    "stars": 44921,
+                    "stars": 44922,
                     "topics": [
                       "altcoin",
                       "api",
@@ -729,11 +729,11 @@
                 "id": 43425480,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-18T01:02:34Z",
-                "open_issues": 314,
+                "last_commit": "2026-11-19T01:01:42Z",
+                "open_issues": 318,
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 30714,
+                "stars": 30732,
                 "topics": [
                   "algorithmic-trading-engine",
                   "algorithmic-trading-library",
@@ -775,7 +775,7 @@
                 "open_issues": 1,
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 11310,
+                "stars": 11314,
                 "topics": [
                   "algorithmic-trading",
                   "bollinger-bands",
@@ -817,7 +817,7 @@
                 "open_issues": 56,
                 "owner": "CryptoSignal",
                 "repo": "Crypto-Signal",
-                "stars": 5663,
+                "stars": 5660,
                 "topics": [
                   "abenezer-mamo",
                   "algorithmic-trading",
@@ -859,7 +859,7 @@
                 "open_issues": 28,
                 "owner": "grananqvist",
                 "repo": "Awesome-Quant-Machine-Learning-Trading",
-                "stars": 4150,
+                "stars": 4149,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:43:33.744Z",
+    "last_updated": "2026-11-19T22:47:32.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated list of resources, software and tools for crypto traders.",
